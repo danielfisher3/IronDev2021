@@ -153,6 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.IronDev2021
     Standalone: com.DefaultCompany.IronDev2021
   buildNumber:
     Standalone: 0
