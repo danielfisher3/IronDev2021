@@ -189,6 +189,30 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 11421a78ecba5234ea9b14e88292405c, type: 3}
   m_PrefabInstance: {fileID: 57994943}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &57994945 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 11421a78ecba5234ea9b14e88292405c, type: 3}
+  m_PrefabInstance: {fileID: 57994943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &57994946
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57994945}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 11421a78ecba5234ea9b14e88292405c, type: 3}
+  m_Controller: {fileID: 9100000, guid: 6ed9d6b3fc1c0c04e9f3d2323ec49487, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &119310369
 GameObject:
   m_ObjectHideFlags: 0
@@ -1118,6 +1142,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 4c407500e2434fd4cb0d238cddae7696, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6ed9d6b3fc1c0c04e9f3d2323ec49487, type: 2}
     - target: {fileID: 6240733294840144465, guid: 4c407500e2434fd4cb0d238cddae7696, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
@@ -1506,6 +1534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Char_16_fbx
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0ddb46d733e8c5045a749fcc3ebf5faf, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6ed9d6b3fc1c0c04e9f3d2323ec49487, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ddb46d733e8c5045a749fcc3ebf5faf, type: 3}
 --- !u!4 &2094892591 stripped
