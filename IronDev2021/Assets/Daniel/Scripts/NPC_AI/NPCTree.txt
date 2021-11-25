@@ -1,0 +1,13 @@
+tree("Root")
+	repeat mute tree("Patrol")
+
+tree("Patrol")
+	sequence
+		GoToNextCheckPoint
+		MadeItToCheckPoint
+		
+		
+		
+		
+		
+		
