@@ -1,15 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bf066bf8a4947a1be502d267edb82f, type: 3}
-  m_Name: Mock HMD Build Settings
-  m_EditorClassIdentifier: 
-  renderMode: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0429cda7e6fa1fa49e22047b27840a2ed4785a18852ecb32497df656b19d670
+size 443
